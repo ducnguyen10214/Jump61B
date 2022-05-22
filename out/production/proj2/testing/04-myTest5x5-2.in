@@ -1,0 +1,19 @@
+#* java -ea jump61.Main
+# 5x5 test which results in overfull nodes.
+size 5
+manual red
+manual blue
+1 1
+2 1
+1 1
+2 3
+1 1
+5 4
+4 4
+5 4
+2 2
+5 4
+dump
+1 1
+dump
+quit

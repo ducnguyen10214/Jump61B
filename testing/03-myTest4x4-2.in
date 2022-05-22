@@ -1,0 +1,13 @@
+#* java -ea jump61.Main
+# 4x4 test for both manual players
+size 4
+manual red
+manual blue
+2 2
+3 3
+4 4
+4 2
+4 3
+2 1
+dump
+quit
